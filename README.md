@@ -4,5 +4,5 @@
 
 # Summary
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=myalpine&count_private=true&show_icons=true&theme=vue-dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=myalpine&theme=vue-dark)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=myalpine&show_icons=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=myalpine&layout=compact&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
